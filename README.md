@@ -1,6 +1,6 @@
 A curated list of resources for 3D segmentation of neurites (connectomics) in EM images
 
-**Papers**
+# Papers
 
 [-] 2017-BioInf - DeepEM3D: approaching human-level performance on 3D anisotropic EM image segmentation. [[Paper]](https://academic.oup.com/bioinformatics/article/33/16/2555/3096435)[[Code]](https://github.com/divelab/deepem3d)
 
@@ -20,3 +20,8 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 [-] 2016-MICCAI - [[Dataset & Challenge details]](https://cremi.org/)
 
 [-] 2018-Arxiv - Robust neural circuit reconstruction from serial electron microscopy with convolutional recurrent networks. [[Paper]](https://arxiv.org/abs/1811.11356v1)[[Dataset & Challenge details]](https://star-challenge.github.io/)
+
+# Other Resources
+
+PyTorch Connectomics - [[Code]](https://github.com/zudi-lin/pytorch_connectomics)
+pytorch-3dunet - [[Code]](https://github.com/wolny/pytorch-3dunet)
