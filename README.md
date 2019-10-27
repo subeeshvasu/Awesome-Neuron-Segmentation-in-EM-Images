@@ -2,6 +2,8 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 **Papers**
 
+[-] 2017-Arxiv - Superhuman Accuracy on the SNEMI3D Connectomics Challenge. [[Paper]](https://arxiv.org/abs/1706.00120)
+
 [-] 2017-NatureMethods - Multicut brings automated neurite segmentation closer to human performance. [[Paper]](https://www.nature.com/articles/nmeth.4151)
 
 [-] 2018-NatureMethods - High-Precision Automated Reconstruction of Neurons with Flood-filling Networks. [[Paper]](https://www.nature.com/articles/s41592-018-0049-4)[[Arxiv]](https://arxiv.org/pdf/1611.00421.pdf)[[Code]](https://github.com/google/ffn)
