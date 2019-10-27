@@ -2,6 +2,8 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 **Papers**
 
+[-] 2017-NatureMethods - Multicut brings automated neurite segmentation closer to human performance. [[Paper]](https://www.nature.com/articles/nmeth.4151)
+
 [-] 2018-NatureMethods - High-Precision Automated Reconstruction of Neurons with Flood-filling Networks. [[Paper]](https://www.nature.com/articles/s41592-018-0049-4)[[Arxiv]](https://arxiv.org/pdf/1611.00421.pdf)[[Code]](https://github.com/google/ffn)
 
 [-] 2019-PAMI - Large Scale Image Segmentation with Structured Loss Based Deep Learning for Connectome Reconstruction. [[Paper]](https://ieeexplore.ieee.org/document/8364622)[[Arxiv]](https://arxiv.org/abs/1709.02974)[[Code]](https://github.com/funkey/mala)
