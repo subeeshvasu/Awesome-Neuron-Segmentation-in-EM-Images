@@ -24,4 +24,5 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 # Other Resources
 
 [-] PyTorch Connectomics - [[Code]](https://github.com/zudi-lin/pytorch_connectomics)
+
 [-] pytorch-3dunet - [[Code]](https://github.com/wolny/pytorch-3dunet)
