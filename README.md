@@ -13,7 +13,7 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 # Benchmark Datasets
 
-[-] 2013-ISBI - SNEMI3D.[[Dataset & Challenge details]](http://brainiac2.mit.edu/SNEMI3D/)
+[-] 2013-ISBI - SNEMI3D. [[Dataset & Challenge details]](http://brainiac2.mit.edu/SNEMI3D/)
 
 [-] 2016-MICCAI - [[Dataset & Challenge details]](https://cremi.org/)
 
