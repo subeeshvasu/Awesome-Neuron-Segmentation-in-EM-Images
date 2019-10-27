@@ -2,6 +2,8 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 **Papers**
 
+[-] 2017-BioInf - DeepEM3D: approaching human-level performance on 3D anisotropic EM image segmentation. [[Paper]](https://academic.oup.com/bioinformatics/article/33/16/2555/3096435)[[Code]](https://github.com/divelab/deepem3d)
+
 [-] 2017-Arxiv - Superhuman Accuracy on the SNEMI3D Connectomics Challenge. [[Paper]](https://arxiv.org/abs/1706.00120)[[Code]](https://github.com/torms3/Superhuman)
 
 [-] 2017-NatureMethods - Multicut brings automated neurite segmentation closer to human performance. [[Paper]](https://www.nature.com/articles/nmeth.4151)
