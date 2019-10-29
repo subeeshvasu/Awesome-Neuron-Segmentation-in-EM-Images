@@ -15,11 +15,11 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 # Benchmark Datasets
 
-[-] 2013-ISBI - SNEMI3D. [[Dataset & Challenge details]](http://brainiac2.mit.edu/SNEMI3D/)
+[-] 2013-ISBI - SNEMI3D: [[Dataset & Challenge details]](http://brainiac2.mit.edu/SNEMI3D/)
 
-[-] 2016-MICCAI - [[Dataset & Challenge details]](https://cremi.org/)
+[-] 2016-MICCAI - CREMI: [[Dataset & Challenge details]](https://cremi.org/)
 
-[-] 2018-Arxiv - Robust neural circuit reconstruction from serial electron microscopy with convolutional recurrent networks. [[Paper]](https://arxiv.org/abs/1811.11356v1)[[Dataset & Challenge details]](https://star-challenge.github.io/)
+[-] 2018-Arxiv - star-challenge: Robust neural circuit reconstruction from serial electron microscopy with convolutional recurrent networks. [[Paper]](https://arxiv.org/abs/1811.11356v1)[[Dataset & Challenge details]](https://star-challenge.github.io/)
 
 # Other Resources
 
