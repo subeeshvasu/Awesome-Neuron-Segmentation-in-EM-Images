@@ -21,6 +21,10 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 [-] 2018-Arxiv - star-challenge: Robust neural circuit reconstruction from serial electron microscopy with convolutional recurrent networks. [[Paper]](https://arxiv.org/abs/1811.11356v1)[[Dataset & Challenge details]](https://star-challenge.github.io/)
 
+# Metrics
+
+[-] Adapted Rand error - [[Definition]](http://brainiac2.mit.edu/SNEMI3D/evaluation)[[Matlab-Code]](http://brainiac2.mit.edu/SNEMI3D/evaluation)[[Python-code]](https://github.com/cremi/cremi_python/blob/master/cremi/evaluation/rand.py)
+
 # Other Resources
 
 [-] PyTorch Connectomics - [[Code]](https://github.com/zudi-lin/pytorch_connectomics)
