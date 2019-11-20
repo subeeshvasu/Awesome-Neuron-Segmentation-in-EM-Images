@@ -17,7 +17,9 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 [-] 2013-ISBI - SNEMI3D: [[Dataset & Challenge details]](http://brainiac2.mit.edu/SNEMI3D/)
 
-[-] 2015-PNAS - FIB-25: Synaptic circuits and their variations within different columns in the visual system of Drosophila. [[Dataset & details]](https://www.janelia.org/project-team/flyem/tools-and-data-release)
+[-] 2015-PNAS - FIB-25: Synaptic circuits and their variations within different columns in the visual system of Drosophila. [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4640747/) [[Dataset & details]](https://www.janelia.org/project-team/flyem/tools-and-data-release)
+
+[-] 2015-PNAS - SegEM: SegEM: Efficient Image Analysis for High-Resolution Connectomics. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0896627315007606)[[Dataset & Challenge details]](http://segem.brain.mpg.de/)
 
 [-] 2016-MICCAI - CREMI: [[Dataset & Challenge details]](https://cremi.org/)
 
