@@ -29,6 +29,8 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 [-] Adapted Rand error - [[Definition]](http://brainiac2.mit.edu/SNEMI3D/evaluation)[[Matlab-Code]](http://brainiac2.mit.edu/SNEMI3D/evaluation)[[Python-code]](https://github.com/cremi/cremi_python/blob/master/cremi/evaluation/rand.py)
 
+[-] Inter-error distance - [[Definition]](https://www.sciencedirect.com/science/article/pii/S0896627315007606)[[Matlab-Code]](https://github.com/mhlabCodingTeam/SegEM/blob/master/cortex/segmentation/evaluateSeg.m)
+
 # Other Resources
 
 [-] PyTorch Connectomics - [[Code]](https://github.com/zudi-lin/pytorch_connectomics)
