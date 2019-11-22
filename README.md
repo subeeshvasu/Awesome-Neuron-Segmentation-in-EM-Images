@@ -29,7 +29,9 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 [-] Adapted Rand error - [[Definition]](http://brainiac2.mit.edu/SNEMI3D/evaluation)[[Matlab-Code]](http://brainiac2.mit.edu/SNEMI3D/evaluation)[[Python-code]](https://github.com/cremi/cremi_python/blob/master/cremi/evaluation/rand.py)
 
-[-] Inter-error distance - [[Definition]](https://www.sciencedirect.com/science/article/pii/S0896627315007606)[[Matlab-Code]](https://github.com/mhlabCodingTeam/SegEM/blob/master/cortex/segmentation/evaluateSeg.m)
+[-] Inter-error distance (IED) - SegEM: Efficient Image Analysis for High-Resolution Connectomics. [[Definition]](https://www.sciencedirect.com/science/article/pii/S0896627315007606)[[Matlab-Code]](https://github.com/mhlabCodingTeam/SegEM/blob/master/cortex/segmentation/evaluateSeg.m)
+
+[-] Expected Run Length (ERL) - High-Precision Automated Reconstruction of Neurons with Flood-filling Networks. [[Definition]](https://static-content.springer.com/esm/art%3A10.1038%2Fs41592-018-0049-4/MediaObjects/41592_2018_49_MOESM1_ESM.pdf)
 
 # Other Resources
 
