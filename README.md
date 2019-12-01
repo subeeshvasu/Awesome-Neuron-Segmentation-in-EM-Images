@@ -31,6 +31,10 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 [-] 2015-PNAS - Inter-error distance (IED): SegEM: Efficient Image Analysis for High-Resolution Connectomics. [[Definition]](https://www.sciencedirect.com/science/article/pii/S0896627315007606)[[Matlab-Code]](https://github.com/mhlabCodingTeam/SegEM/blob/master/cortex/segmentation/evaluateSeg.m)
 
+[-] 2015-Methods - Tolerant Edit Distance (TED): TED: A Tolerant Edit Distance for Segmentation Evaluation. [[Paper]](https://arxiv.org/abs/1503.02291)[[Code]](https://github.com/funkey/ted)
+
+[-] 2016-MICCAI - Variation of Information (VOI): CREMI: [[Links]](https://cremi.org/) [[Python-code]](https://github.com/cremi/cremi_python/blob/master/cremi/evaluation/voi.py)
+
 [-] 2018-NatureMethods - Expected Run Length (ERL): High-Precision Automated Reconstruction of Neurons with Flood-filling Networks. [[Definition]](https://static-content.springer.com/esm/art%3A10.1038%2Fs41592-018-0049-4/MediaObjects/41592_2018_49_MOESM1_ESM.pdf)
 
 # Other Resources
