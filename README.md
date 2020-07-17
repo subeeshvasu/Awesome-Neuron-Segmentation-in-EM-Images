@@ -18,6 +18,8 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 + 2018-FN - Neural Reconstruction Integrity: A Metric for Assessing the Connectivity Accuracy of Reconstructed Neural Networks. [[Paper]](https://www.frontiersin.org/articles/10.3389/fninf.2018.00074/full)
 
++ 2018-FNC - Analyzing Image Segmentation for Connectomics. [[Paper]](https://www.frontiersin.org/articles/10.3389/fncir.2018.00102/full)
+
 + 2019-CVPR - Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Meirovitch_Cross-Classification_Clustering_An_Efficient_Multi-Object_Tracking_Technique_for_3-D_Instance_CVPR_2019_paper.pdf)
 
 + 2019-CVPR - Biologically-Constrained Graphs for Global Connectomics Reconstruction. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Matejek_Biologically-Constrained_Graphs_for_Global_Connectomics_Reconstruction_CVPR_2019_paper.pdf)
