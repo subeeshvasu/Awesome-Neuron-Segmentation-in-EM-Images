@@ -26,13 +26,13 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 + 2019-ISBI - Learning Metric Graphs for Neuron Segmentation In Electron Microscopy Images. [[Paper]](https://arxiv.org/abs/1902.00100)
 
++ 2019-ISBI - Reconstructing neuronal anatomy from whole-brain images. [[Paper]](https://arxiv.org/abs/1903.07027)
+
 + 2019-CON - Convolutional nets for reconstructing neural circuits from brain images acquired by serial section electron microscopy. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0959438818301788?casa_token=qD2Qt7KLqL8AAAAA:MBY0RBvJZPG690q7lrd657Luyd8n5dPwVYsRoyeK7R4unkiVeBKW2mqWvhHdFr70nGXn5iuaqpw)
 
 + 2019-PAMI - Large Scale Image Segmentation with Structured Loss Based Deep Learning for Connectome Reconstruction. [[Paper]](https://ieeexplore.ieee.org/document/8364622)[[Arxiv]](https://arxiv.org/abs/1709.02974)[[Code]](https://github.com/funkey/mala)
 
 + 2019-MM - Automated reconstruction of a serial-section EM Drosophila brain with flood-filling networks and local realignment. [[Paper]](https://www.biorxiv.org/content/10.1101/605634v1)
-
-+ 2019-ISBI - Reconstructing neuronal anatomy from whole-brain images. [[Paper]](https://arxiv.org/abs/1903.07027)
 
 + 2019-SR - UNI-EM: An Environment for Deep Neural Network-Based Automated Segmentation of Neuronal Electron Microscopic Images. [[Paper]](https://www.nature.com/articles/s41598-019-55431-0)
 
