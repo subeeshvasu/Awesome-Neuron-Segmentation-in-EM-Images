@@ -30,6 +30,8 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 + 2019-CON - Convolutional nets for reconstructing neural circuits from brain images acquired by serial section electron microscopy. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0959438818301788?casa_token=qD2Qt7KLqL8AAAAA:MBY0RBvJZPG690q7lrd657Luyd8n5dPwVYsRoyeK7R4unkiVeBKW2mqWvhHdFr70nGXn5iuaqpw)
 
++ 2019-CON - Big data in nanoscale connectomics, and the greed for training labels. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0959438818301016?casa_token=a7Xm1iBxeysAAAAA:u8tbkV15MoWHcQY67gbdCVnWBtts4MmA7F97r56Q4gVBoFucm0O4-24q6P-UCiSWwBj1eEnix3U)
+
 + 2019-PAMI - Large Scale Image Segmentation with Structured Loss Based Deep Learning for Connectome Reconstruction. [[Paper]](https://ieeexplore.ieee.org/document/8364622)[[Arxiv]](https://arxiv.org/abs/1709.02974)[[Code]](https://github.com/funkey/mala)
 
 + 2019-MM - Automated reconstruction of a serial-section EM Drosophila brain with flood-filling networks and local realignment. [[Paper]](https://www.biorxiv.org/content/10.1101/605634v1)
