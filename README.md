@@ -48,6 +48,7 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 + 2020 - Machine Learning for Instance Segmentation. [[Thesis]](https://archiv.ub.uni-heidelberg.de/volltextserver/28353/1/steffen_wolf_thesis_compressed.pdf)
 
++ 2020 - Generative and discriminative model-based approaches to microscopic image restoration and segmentation. [[Paper]](https://academic.oup.com/jmicro/article/69/2/79/5811684)
 
 # Benchmark Datasets
 
