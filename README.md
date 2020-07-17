@@ -54,6 +54,10 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 + 2020 - Generative and discriminative model-based approaches to microscopic image restoration and segmentation. [[Paper]](https://academic.oup.com/jmicro/article/69/2/79/5811684)
 
++ 2020 - Accelerated EM Connectome Reconstruction using 3D Visualization and Segmentation Graphs. [[Paper]](https://www.biorxiv.org/content/biorxiv/early/2020/01/17/2020.01.17.909572.full.pdf)
+
++ 2020 - Machine Learning for Connectomics. [[Link]](https://mediatum.ub.tum.de/doc/1449120/document.pdf)
+
 # Benchmark Datasets
 
 + 2013-ISBI - SNEMI3D: [[Dataset & Challenge details]](http://brainiac2.mit.edu/SNEMI3D/)
