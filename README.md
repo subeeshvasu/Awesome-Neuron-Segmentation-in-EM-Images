@@ -44,7 +44,7 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 + 2020 - Robust neural circuit reconstruction from serial electron microscopy with convolutional recurrent networks. [[Paper]](https://arxiv.org/pdf/1811.11356.pdf)
 
-+ 2020 - Optimizing the Computational Efficiency of 3D Segmentation Models for Connectomics. [[Paperr]](https://easychair.org/publications/preprint/dftD)
++ 2020 - Optimizing the Computational Efficiency of 3D Segmentation Models for Connectomics. [[Paper]](https://easychair.org/publications/preprint/dftD)
 
 + 2020 - Machine Learning for Instance Segmentation. [[Thesis]](https://archiv.ub.uni-heidelberg.de/volltextserver/28353/1/steffen_wolf_thesis_compressed.pdf)
 
