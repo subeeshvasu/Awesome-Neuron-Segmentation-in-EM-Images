@@ -16,8 +16,6 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 + 2018-NatureMethods - High-Precision Automated Reconstruction of Neurons with Flood-filling Networks. [[Paper]](https://www.nature.com/articles/s41592-018-0049-4)[[Arxiv]](https://arxiv.org/pdf/1611.00421.pdf)[[Code]](https://github.com/google/ffn)
 
-+ 2018-FN - Neural Reconstruction Integrity: A Metric for Assessing the Connectivity Accuracy of Reconstructed Neural Networks. [[Paper]](https://www.frontiersin.org/articles/10.3389/fninf.2018.00074/full)
-
 + 2018-FNC - Analyzing Image Segmentation for Connectomics. [[Paper]](https://www.frontiersin.org/articles/10.3389/fncir.2018.00102/full)
 
 + 2019-CVPR - Cross-Classification Clustering: An Efficient Multi-Object Tracking Technique for 3-D Instance Segmentation in Connectomics. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Meirovitch_Cross-Classification_Clustering_An_Efficient_Multi-Object_Tracking_Technique_for_3-D_Instance_CVPR_2019_paper.pdf)
@@ -81,6 +79,12 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 + 2016-MICCAI - Variation of Information (VOI): CREMI: [[Links]](https://cremi.org/) [[Python-code]](https://github.com/cremi/cremi_python/blob/master/cremi/evaluation/voi.py)
 
 + 2018-NatureMethods - Expected Run Length (ERL): High-Precision Automated Reconstruction of Neurons with Flood-filling Networks. [[Definition]](https://static-content.springer.com/esm/art%3A10.1038%2Fs41592-018-0049-4/MediaObjects/41592_2018_49_MOESM1_ESM.pdf)
+
++ 2018-FN - Neural Reconstruction Integrity (NRI): A Metric for Assessing the Connectivity Accuracy of Reconstructed Neural Networks. [[Paper]](https://www.frontiersin.org/articles/10.3389/fninf.2018.00074/full)
+
++ 2019-NeurIPS - Betti number error: Topology-Preserving Deep Image Segmentation. [[Paper]](https://proceedings.neurips.cc/paper/2019/file/2d95666e2649fcfc6e3af75e09f5adb9-Paper.pdf)
+
++ 2021-bioRxiv - Min-Cut Metric (MCM): Local Shape Descriptors for Neuron Segmentation. [[Paper]](https://www.biorxiv.org/content/10.1101/2021.01.18.427039v1.full.pdf)[[Code]](https://localshapedescriptors.github.io)
 
 # Other Resources
 
