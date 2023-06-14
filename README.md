@@ -42,8 +42,6 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 + 2019 - A Generalized Framework for Agglomerative Clustering of Signed Graphs applied to Instance Segmentation. [[Paper]](https://arxiv.org/pdf/1906.11713.pdf)
 
-+ 2019 - Learning Dense Voxel Embeddings for 3D Neuron Reconstruction. [[Paper]](https://arxiv.org/pdf/1909.09872.pdf)
-
 + 2020 - Robust neural circuit reconstruction from serial electron microscopy with convolutional recurrent networks. [[Paper]](https://arxiv.org/pdf/1811.11356.pdf)
 
 + 2020 - Optimizing the Computational Efficiency of 3D Segmentation Models for Connectomics. [[Paper]](https://easychair.org/publications/preprint/dftD)
@@ -54,7 +52,13 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 + 2020 - Accelerated EM Connectome Reconstruction using 3D Visualization and Segmentation Graphs. [[Paper]](https://www.biorxiv.org/content/biorxiv/early/2020/01/17/2020.01.17.909572.full.pdf)
 
-+ 2020 - Machine Learning for Connectomics. [[Link]](https://mediatum.ub.tum.de/doc/1449120/document.pdf)
++ 2020 - Machine Learning for Connectomics. [[Thesis]](https://mediatum.ub.tum.de/doc/1449120/document.pdf)
+
++ 2021-TMI - Learning Dense Voxel Embeddings for 3D Neuron Reconstruction. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9489304)[[Code]](https://github.com/seung-lab/devoem)
+
++ 2022-TMI - Semi-Supervised Neuron Segmentation via Reinforced Consistency Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9777694)[[Code]](https://github.com/weih527/SSNS-Net)
+
++ 2023-NatureMethods - Local Shape Descriptors for Neuron Segmentation. [[Paper]](https://www.nature.com/articles/s41592-022-01711-z)[[Code]](https://localshapedescriptors.github.io)
 
 # Benchmark Datasets
 
