@@ -58,7 +58,7 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 # Benchmark Datasets
 
-+ 2013-ISBI - SNEMI3D: [[Dataset & Challenge details]](http://brainiac2.mit.edu/SNEMI3D/)
++ 2013-ISBI - SNEMI3D: [[Dataset & Challenge details]](https://snemi3d.grand-challenge.org/)
 
 + 2015-PNAS - FIB-25: Synaptic circuits and their variations within different columns in the visual system of Drosophila. [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4640747/) [[Dataset & details]](https://www.janelia.org/project-team/flyem/tools-and-data-release)
 
@@ -84,7 +84,7 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 + 2019-NeurIPS - Betti number error: Topology-Preserving Deep Image Segmentation. [[Paper]](https://proceedings.neurips.cc/paper/2019/file/2d95666e2649fcfc6e3af75e09f5adb9-Paper.pdf)
 
-+ 2021-bioRxiv - Min-Cut Metric (MCM): Local Shape Descriptors for Neuron Segmentation. [[Paper]](https://www.biorxiv.org/content/10.1101/2021.01.18.427039v1.full.pdf)[[Code]](https://localshapedescriptors.github.io)
++ 2023-NatureMethods - Min-Cut Metric (MCM): Local Shape Descriptors for Neuron Segmentation. [[Paper]](https://www.nature.com/articles/s41592-022-01711-z)[[Code]](https://localshapedescriptors.github.io)
 
 # Other Resources
 
