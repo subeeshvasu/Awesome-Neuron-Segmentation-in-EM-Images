@@ -32,7 +32,7 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 + 2019-CON - Big data in nanoscale connectomics, and the greed for training labels. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0959438818301016?casa_token=a7Xm1iBxeysAAAAA:u8tbkV15MoWHcQY67gbdCVnWBtts4MmA7F97r56Q4gVBoFucm0O4-24q6P-UCiSWwBj1eEnix3U)
 
-+ 2019-PAMI - Large Scale Image Segmentation with Structured Loss Based Deep Learning for Connectome Reconstruction. [[Paper]](https://ieeexplore.ieee.org/document/8364622)[[Arxiv]](https://arxiv.org/abs/1709.02974)[[Code]](https://github.com/funkey/mala)
++ 2019-TPAMI - Large Scale Image Segmentation with Structured Loss Based Deep Learning for Connectome Reconstruction. [[Paper]](https://ieeexplore.ieee.org/document/8364622)[[Arxiv]](https://arxiv.org/abs/1709.02974)[[Code]](https://github.com/funkey/mala)
 
 + 2019-MM - Automated reconstruction of a serial-section EM Drosophila brain with flood-filling networks and local realignment. [[Paper]](https://www.biorxiv.org/content/10.1101/605634v1)
 
@@ -41,6 +41,8 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 + 2019 - Entropy policy for supervoxel agglomeration of neurite segmentation. [[Paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/papers/2019/O3-4.pdf)
 
 + 2019 - A Generalized Framework for Agglomerative Clustering of Signed Graphs applied to Instance Segmentation. [[Paper]](https://arxiv.org/pdf/1906.11713.pdf)
+
++ 2019 - Reconstructing neurons from serial section electron microscopy images. [[Thesis]](https://dspace.mit.edu/handle/1721.1/133076)
 
 + 2020 - Robust neural circuit reconstruction from serial electron microscopy with convolutional recurrent networks. [[Paper]](https://arxiv.org/pdf/1811.11356.pdf)
 
@@ -54,7 +56,11 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 
 + 2020 - Machine Learning for Connectomics. [[Thesis]](https://mediatum.ub.tum.de/doc/1449120/document.pdf)
 
++ 2020-TPAMI - The Mutex Watershed and its Objective: Efficient, Parameter-Free Graph Partitioning. [[Paper]](https://ieeexplore.ieee.org/document/9036993)[[Code]](https://github.com/hci-unihd/mutex-watershed)
+
 + 2021-TMI - Learning Dense Voxel Embeddings for 3D Neuron Reconstruction. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9489304)[[Code]](https://github.com/seung-lab/devoem)
+
++ 2021 - Scalable Instance Segmentation for Microscopy. [[Thesis]](https://archiv.ub.uni-heidelberg.de/volltextserver/30147/1/phd-thesis-cpape.pdf)
 
 + 2022-TMI - Semi-Supervised Neuron Segmentation via Reinforced Consistency Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9777694)[[Code]](https://github.com/weih527/SSNS-Net)
 
@@ -95,3 +101,5 @@ A curated list of resources for 3D segmentation of neurites (connectomics) in EM
 + PyTorch Connectomics - [[Code]](https://github.com/zudi-lin/pytorch_connectomics)
 
 + pytorch-3dunet - [[Code]](https://github.com/wolny/pytorch-3dunet)
+
++ Awesome-vEM-Datasets - [[Dataset details]](https://github.com/JackieZhai/awesome-vem-datasets)
